@@ -3,7 +3,7 @@
 
 This is an unsupervised learning based Clustering web tool that has been used to cluster microstructures in Steel based on their physical properties. Files can be uploaded in .xlsx or .csv format. The tool supports five different clustering algorithms in combination with dimensionality reduction. The dimensionality reduction algorithm used here is Principal Component Analysis (PCA).
 
-This web tool is developed as part of the coursework - Software Engineering, for the Chair for Functional Materials, Saarland University.
+This web tool is developed for the Chair for Functional Materials, Saarland University.
 
 More information about the department can be found [here](https://www.fuwe.uni-saarland.de/).
 
